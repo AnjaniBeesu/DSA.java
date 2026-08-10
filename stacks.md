@@ -1,4 +1,4 @@
-````md
+
 # Stack (LIFO - Last In, First Out)
 
 ## What is a Stack?
