@@ -540,9 +540,4 @@ O(n)
 
 ---
 
-# References
 
-- Data Structures and Algorithms (DSA)
-- LeetCode Stack Problems
-- Common FAANG Interview Patterns
-````
