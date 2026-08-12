@@ -268,19 +268,6 @@ System.out.println(st.empty());//false
 
 ---
 
-# Parentheses Matching
-
-Example
-
-```
-Input
-
-{[()]}
-
-Output
-
-Balanced
-```
 
 Algorithm
 
