@@ -7,7 +7,7 @@ A **Stack** is a linear data structure that follows the **LIFO (Last In, First O
 
 Think of a stack of plates:
 
-- The last plate placed on top is the first one removed.
+- The last plate placed on top is the first one removed.(unless u are a weirdo)
 
 ---
 
