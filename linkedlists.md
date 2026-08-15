@@ -741,16 +741,3 @@ Hard
 ✔ Merge Sort = Best sorting for Linked Lists
 
 ---
-
-# Interview Tips
-
-1. Always draw the linked list before coding.
-2. Track pointer updates carefully.
-3. Check edge cases:
-   - Empty list
-   - Single node
-   - Two nodes
-   - Head deletion
-   - Tail deletion
-4. Prefer iterative solutions unless recursion is required.
-5. State the time and space complexity after solving.
