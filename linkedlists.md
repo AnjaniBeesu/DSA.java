@@ -1,5 +1,4 @@
-# Linked Lists - Complete Interview Notes
-
+# Linked Lists 
 # Table of Contents
 1. What is a Linked List?
 2. Why use Linked Lists?
