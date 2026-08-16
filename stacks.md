@@ -16,7 +16,7 @@ Think of a stack of plates:
 - Linear Data Structure
 - Follows LIFO Principle
 - Insertion and deletion happen only at one end (Top)
-- Efficient for recursive and backtracking problems
+- Efficient for recursive and backtracking problems.
 
 ---
 
