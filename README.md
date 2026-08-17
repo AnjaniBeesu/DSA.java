@@ -12,7 +12,7 @@ This repository contains my personal DSA notes written while learning and practi
 * Data Structures
 
   * Arrays (done)
-  * Strings
+  * Strings (done)
   * Linked Lists
   * Stacks
   * Queues
