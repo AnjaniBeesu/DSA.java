@@ -13,7 +13,7 @@ This repository contains my personal DSA notes written while learning and practi
 
   * Arrays (done)
   * Strings (done)
-  * Linked Lists
+  * Linked Lists (done)
   * Stacks
   * Queues
   * Hash Maps & Sets
