@@ -15,7 +15,7 @@ This repository contains my personal DSA notes written while learning and practi
   * Strings (done)
   * Linked Lists (done)
   * Stacks (done)
-  * Queues
+  * Queues (in progress)
   * Hash Maps & Sets
   * Trees
   * Heaps
